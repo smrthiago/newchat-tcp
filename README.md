@@ -45,4 +45,4 @@ IPs estáticos (192.168.1.1 e 1.2).
 - *Tratamento de Exceções*: O servidor gerencia erros de descriptografia (tokens inválidos)
 sem interromper o serviço, protegendo a Disponibilidade do sistema.
 
-### Alunos: Allan Victor Vieira, Michel Paula, Thiago Soares
+### Por Allan Victor Vieira, Michel Paula e Thiago Soares
